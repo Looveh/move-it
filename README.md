@@ -1,1 +1,1 @@
-A simple site i threw together when home sick for a day.
+A simple site I threw together while home sick one day.
